@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Solti Csongor Peter 11D\\Cs\\feladatok\\ha_esetleg_mas\\Elagazasok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC69590B-B242-46FC-9D50-6CB24DB7E11F}|Elagazasok\\Elagazasok.csproj|d:\\solti csongor peter 11d\\cs\\feladatok\\ha_esetleg_mas\\elagazasok\\elagazasok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC69590B-B242-46FC-9D50-6CB24DB7E11F}|Elagazasok\\Elagazasok.csproj|solutionrelative:elagazasok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Solti Csongor Peter 11D\\Cs\\feladatok\\ha_esetleg_mas\\Elagazasok\\Elagazasok\\Program.cs",
+              "RelativeDocumentMoniker": "Elagazasok\\Program.cs",
+              "ToolTip": "D:\\Solti Csongor Peter 11D\\Cs\\feladatok\\ha_esetleg_mas\\Elagazasok\\Elagazasok\\Program.cs",
+              "RelativeToolTip": "Elagazasok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:49:15.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
